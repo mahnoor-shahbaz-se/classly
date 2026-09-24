@@ -8,7 +8,8 @@
 
 A clean, modern redesign of the online classroom experience, built with pure HTML, CSS and JavaScript.
 
-[Live Demo](https://mahnoor-shahbaz-se.github.io/classly/)
+[Live Demo](https://YOUR-USERNAME.github.io/classly/) · [Report a Bug](../../issues) · [Request a Feature](../../issues)
+
 </div>
 
 ---
@@ -45,6 +46,22 @@ The project turns the Figma mockups into a fully working front-end website with 
 - CSS3 (custom properties, Grid, Flexbox)
 - Vanilla JavaScript (hash-based routing, no dependencies)
 - [Inter](https://fonts.google.com/specimen/Inter) font via Google Fonts
+
+## Brand Colors
+
+| Color | Name | Hex | Used for |
+|---|---|---|---|
+| ![](https://placehold.co/20x20/0560BD/0560BD.png) | Classly Blue | `#0560BD` | Primary buttons, links, progress bars, banners |
+| ![](https://placehold.co/20x20/E8F0FA/E8F0FA.png) | Light Blue | `#E8F0FA` | Active menu item, avatars, selected states |
+| ![](https://placehold.co/20x20/F8F9FB/F8F9FB.png) | Background | `#F8F9FB` | Page background |
+| ![](https://placehold.co/20x20/FFFFFF/FFFFFF.png) | White | `#FFFFFF` | Cards, sidebar, navigation |
+| ![](https://placehold.co/20x20/1F2937/1F2937.png) | Dark Slate | `#1F2937` | Headings and main text |
+| ![](https://placehold.co/20x20/6B7280/6B7280.png) | Muted Gray | `#6B7280` | Secondary text and descriptions |
+| ![](https://placehold.co/20x20/E5E7EB/E5E7EB.png) | Border Gray | `#E5E7EB` | Card borders and dividers |
+| ![](https://placehold.co/20x20/E8830C/E8830C.png) | Warning Orange | `#E8830C` | "Due tomorrow" deadline alerts |
+| ![](https://placehold.co/20x20/16A34A/16A34A.png) | Success Green | `#16A34A` | "Turned in" status |
+
+**Typography:** Inter (400, 500, 600, 700)
 
 ## Project Structure
 
