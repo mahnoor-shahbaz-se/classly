@@ -8,8 +8,7 @@
 
 A clean, modern redesign of the online classroom experience, built with pure HTML, CSS and JavaScript.
 
-[Live Demo](https://mahnoor-shahbaz-se.github.io/classly/) · [Report a Bug](../../issues) · [Request a Feature](../../issues)
-
+[Live Demo](https://mahnoor-shahbaz-se.github.io/classly/)
 </div>
 
 ---
